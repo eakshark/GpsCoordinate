@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javaproj-1.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javaproj-1.0.9.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/javaproj-1.0.9.zip!/javaproj-1.0.9/src" />
+    </SOURCES>
+  </library>
+</component>
